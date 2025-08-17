@@ -1,8 +1,7 @@
 {
-  "name": "y",
+  "name": "namste-react",
   "version": "1.0.0",
   "description": "This is namaste react by Prat",
-  "main": "y",
   "scripts": {
     "test": "jest"
   },
@@ -15,5 +14,18 @@
   "bugs": {
     "url": "https://github.com/vyas10/namaste-react/issues"
   },
-  "homepage": "https://github.com/vyas10/namaste-react#readme"
+  "homepage": "https://github.com/vyas10/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browsersList": {
+    "last 5 chrome versions": true,
+    "last 5 firefox versions": true,
+    "last 5 safari versions": true,
+    "last 5 edge versions": true
+  }
 }

@@ -1,3 +1,5 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
 // Creating a normal heading element and rendering it on the page
 
 /*const heading = React.createElement("h1", {id: "heading"}, "Hello World");
